@@ -1,0 +1,15 @@
+{
+  "name": "javascript-essential-traning-challenges",
+  "version": "1.0.0",
+  "description": "This repository contains my solutions for the `JavaScript Essential Traning` LinkedIn course challenges.",
+  "main": "index.html",
+  "scripts": {
+    "pretest": "eslint --ignore-path .gitignore ."
+  },
+  "author": "Regina Judak",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "prettier": "^2.7.1"
+  }
+}
