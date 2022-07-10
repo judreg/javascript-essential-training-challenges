@@ -1,7 +1,7 @@
 {
-  "name": "javascript-essential-traning-challenges",
+  "name": "javascript-essential-training-challenges",
   "version": "1.0.0",
-  "description": "This repository contains my solutions for the `JavaScript Essential Traning` LinkedIn course challenges.",
+  "description": "This repository contains my solutions for the `JavaScript Essential Training` LinkedIn course challenges.",
   "main": "index.html",
   "scripts": {
     "pretest": "eslint --ignore-path .gitignore ."
